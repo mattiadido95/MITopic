@@ -1,8 +1,0 @@
-1: 
-purpose, way, future, impact, need, approach, process, consider, sense, consideration, effort, benefit, development, possibility, opportunity, kind, perspective, result, example, environment, progress, aspect, attention, interest, business, advantage, commitment, create, exists, cost, use, part, allows, relation, risk, requirement, system, technology, infrastructure, organization, innovation, efficiency, nature, problem, government, market, order, energy, awareness, building, consumer, capability, human, value, support, existence, step, principle, end, incentive, company, society, sector, product, resource, flexibility, follow-through, supply, initiative, integration, world, insight, customer, power, sustainability, service, saving, reduction, design, challenge, space, operation, transformation, revenue, program, compliance, issue, marketing, scope, expansion, capital, offer, subject, action, waste, goal, serve, question, share, employee, source, production, conservation, creativity, today, welfare, consumption, recovery, mission, regulation, disaster, add-on, movement, range, viewpoint, site, measurement, modification, purchase, disruption, ecosystem, chemical, landscape, damage, model, alignment, mitigation, bulk, cut, word, supplier, innovate, stakeholder, redesign, manufacturer, dignity, heat, contradiction, boundary, startup, wall, stream, builder, subset, ad, metric, emission, illustration, authenticity, member, ventilation, accrue, retrofit, designer, bar, sale,  
- 
-0: 
-daylight, producer, redefinition, lever, infinitum,  
- 
--1: 
- 

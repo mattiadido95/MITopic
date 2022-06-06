@@ -1,8 +1,0 @@
-1: 
-way, fact, importance, thats, approach, opportunity, business, basis, possibility, work, process, ability, whats, management, example, trust, idea, others, decision, time, help, development, company, research, industry, organization, respect, something, people, person, consumer, problem, evaluation, use, effectiveness, describe, market, customer, conduct, client, over-deliver, advice, failure, agency, system, employee, instance, service, communication, increase, human, answer, institution, term, technology, marketing, society, establishment, claim, learning, address, sector, expert, response, intelligence, compliance, serve, issue, product, capability, solution, safety, competent, setting, firm, data, competence, offering, wealth, advertising, disclosure, economy, computer, introduce, rule, consultant, excellence, survey, goal, recommendation, function, home, bank, budget, vendor, test, agent, reliability, arent, drug, area, dont, feeling, show, vehicle, unsure, list, dialogue, side, center, certification, trading, brand, diagnosis, accuracy, lawyer, head, domain, emerge, endorse, adviser, press, model, efficacy, two-thirds, cycle, researcher, assistant, autonomy, capture, car, auditor, emotion, machine, marketer, ad, respondent, code, american, desk, release, algorithm, tone, robo-advisers, trump, contributor, financials, traction,  
- 
-0: 
-underwriter, portrayal, extravagant, autopilot, certifies, disillusionment, cv, watson, gartner, tesla, deloitte, etzioni, ipsofts, replicability, chatbots, seb, schneiders,  
- 
--1: 
- 

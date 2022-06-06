@@ -1,8 +1,0 @@
-1: 
-way, one, fact, opportunity, business, market, impact, industry, need, effort, idea, time, bring, government, development, example, attention, policy, process, point, strategy, sector, basis, growth, economy, progress, place, company, part, deal, country, management, thought, risk, research, state, innovation, environment, organization, respect, key, infrastructure, technology, difference, capital, crisis, enterprise, relationship, today, choice, position, system, fund, describe, venture, role, exchange, trade, decline, marketing, activity, agreement, half, number, competition, program, product, power, supply, year, generation, question, solution, offering, start-ups, acquisition, corporation, productivity, recession, production, run, response, university, access, protect, downturn, school, rate, sell, path, percentage, found, creativity, collapse, couple, transform, cycle, type, pick, quarter, licensing, entrepreneurship, purchase, phenomenon, associate, destruction, capitalist, cooperate, liquidity, century, entrepreneur, invention, device, merger, name, auto, commercialization, pose, biotechnology, paper, electronics, boom, circle, engine, backing, competency, incumbent, aftermath, exit, professor, flight, fruit, series, pit, generator, bust, economist,  
- 
-0: 
-bailouts, winner, displace, entrant, ipo, schumpeter, foundersand, capitalistsmay, enterprisesbanks, kellogg, starker, hsu,  
- 
--1: 
- 

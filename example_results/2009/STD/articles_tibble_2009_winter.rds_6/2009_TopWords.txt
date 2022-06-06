@@ -1,8 +1,0 @@
-1: 
-individual, change, need, knowledge, impact, risk, management, one, opportunity, example, attention, business, investment, time, thinking, assessment, others, evaluation, failure, course, structure, leadership, choice, order, position, system, practice, finance, behavior, academic, governance, client, lead, theory, crisis, solution, stress, difficulty, engineering, tend, investor, bank, agency, identification, direction, reflection, implication, today, corporation, area, loan, separation, view, model, technique, medicine, leader, instrument, homeowner, default, competitor, supplier, engine, underestimate, looming, rating, subprime,  
- 
-0: 
-securitization, interdependency,  
- 
--1: 
- 

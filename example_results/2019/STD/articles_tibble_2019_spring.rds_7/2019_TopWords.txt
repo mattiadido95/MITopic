@@ -1,8 +1,0 @@
-1: 
-way, one, opportunity, focus, ability, kind, approach, example, effort, concern, idea, process, help, experience, success, result, others, thing, benefit, interest, expertise, business, move, job, development, part, decision, problem, instance, people, use, position, organization, role, information, step, let, attempt, company, requirement, broader, structure, challenge, evidence, effectiveness, number, system, advice, communicate, somebody, application, team, employee, field, capability, trade-off, career, case, cost, skill, transition, data, product, option, employer, variety, partner, none, growth, solve, function, document, performance, search, show, quality, discussion, candidate, path, saving, source, manager, couple, confirm, year, meeting, worker, profile, recruitment, fit, progression, article, competency, opening, uncover, model, engagement, loyalty, mapping, match, retention, hierarchy, visibility, specialization, hire, overlap, proficiency, rank, craft, researcher, infer, machine, analytics, review, startup, recruiter, chart, map, series, pathway, ladder, analyst, incumbent, performer, editor,  
- 
-0: 
-version, disappearance, covet, mit,  
- 
--1: 
- 

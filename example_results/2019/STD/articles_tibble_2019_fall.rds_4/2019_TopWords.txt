@@ -1,8 +1,0 @@
-1: 
-way, reason, matter, idea, consider, kind, mind, thinking, approach, attention, thing, opportunity, thats, think, others, effort, time, people, experience, help, youre, finding, decision, impact, problem, course, expertise, question, strategy, research, allow, look, business, leadership, challenge, job, world, organization, talk, argument, evidence, instance, industry, study, pursue, mindset, management, audience, issue, expert, form, reach, technology, innovation, talent, share, contribution, team, analysis, goal, field, skill, culture, direction, relevance, fall, experiment, core, method, group, tool, article, framework, combination, area, judge, venture, source, piece, recommendation, reference, leader, reader, element, investor, manager, letter, author, smarter, comment, practitioner, publication, upside, utility, medium, analytics, root, editor, synthesis,  
- 
-0: 
-cogent, tee, edu, mit, smr,  
- 
--1: 
- 

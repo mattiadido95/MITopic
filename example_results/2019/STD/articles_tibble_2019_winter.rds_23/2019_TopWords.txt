@@ -1,8 +1,0 @@
-1: 
-way, one, reason, idea, example, perspective, something, others, people, possibility, individual, time, everyone, opportunity, context, basis, interest, public, place, work, opinion, result, imagine, instance, part, majority, problem, explanation, conversation, reality, relationship, conclusion, addition, finding, strategy, community, audience, information, issue, environment, research, position, plan, cause, perception, evidence, organization, account, communication, response, share, conflict, debate, remember, engage, behavior, content, viewpoint, study, reach, conduct, activity, customer, variety, politics, day, story, set, diverse, view, space, data, message, group, marketing, advertising, option, analysis, application, dialogue, prevent, appeal, source, product, user, assumes, implication, article, offering, function, network, campaign, constitutes, reading, family, goal, minority, platform, dont, post, alternate, side, core, line, wisdom, base, news, exposure, period, feature, name, office, spectrum, engagement, brand, range, interview, display, friend, timeline, perform, broadcast, distinctive, hundred, visibility, examines, executive, partisan, interface, feed, medium, pattern, sentiment, prominence, id, politician, item, million, machine, twitter, marketer, tweet, chamber,  
- 
-0: 
-follower, commentator, slant, bookmark, polarization, influencers, cubicle, centrist, api, ceo, nike, retweets, retweet, facebooks, kaepernick,  
- 
--1: 
- 

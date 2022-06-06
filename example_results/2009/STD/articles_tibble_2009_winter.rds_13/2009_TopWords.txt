@@ -1,8 +1,0 @@
-1: 
-customer, business, need, product, market, service, company, and/or, application, technology, objective, offering, gain, data, dynamic, buyer, influence, transaction, networking, recommend, behavior, accuracy, recommendation, technique, predict, action, enjoy, engine, prediction, pattern,  
- 
-0: 
-recommenders,  
- 
--1: 
- 

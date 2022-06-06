@@ -1,8 +1,0 @@
-1: 
-fact, possibility, need, future, point, time, example, opportunity, attention, interest, work, result, choice, rest, lot, research, risk, information, create, company, market, question, cost, community, management, study, effect, isnt, asset, creation, note, product, university, school, marketing, type, site, source, implication, circumstance, trend, competition, quality, survey, online, design, foundation, entity, software, consult, owner, limitation, portion, fun, brand, news, club, paper, emergence, member, author, friendship, assistant, researcher, attribute, manufacturer, professor, admits, trait, holder, respondent, synergy,  
- 
-0: 
-tent, backpack, apache, hiker, od, costless, internetstart, hippel, fueller, resultsand, unbrandedand, communitiesor, codevelopers, mit,  
- 
--1: 
- 

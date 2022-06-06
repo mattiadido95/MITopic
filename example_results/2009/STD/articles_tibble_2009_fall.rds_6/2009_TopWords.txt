@@ -1,8 +1,0 @@
-1: 
-strategy, approach, concern, future, management, way, development, business, organization, advantage, environment, thinking, company, expectation, challenge, sustainability, argue, system, practice, partnership, term, partner, action, competition, capability, effect, product, collaboration, manager, executive, number, tool, leader, reward, transparency, stakeholder, commodity, alliance, model, survey, show, resilience, stake, price, shock, swing, respondent, bar, shortcoming, alters, graph, regulator,  
- 
-0: 
-sale, influencers, reimagine, \nin,  
- 
--1: 
- 

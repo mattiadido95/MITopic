@@ -1,8 +1,0 @@
-1: 
-particular, way, fact, reason, sense, consider, opportunity, kind, individual, time, work, change, example, experience, ability, someone, benefit, people, business, result, life, person, course, decision, move, aspect, organization, relationship, choice, find, job, high-level, addition, instance, position, company, level, role, world, management, research, attempt, professional, employee, conduct, start, career, perception, information, student, identity, market, question, explanation, department, study, employer, university, value, hand, enhance, college, association, home, effect, issue, talent, reputation, family, workplace, group, show, factor, exchange, run, meeting, quality, access, labor, shape, performance, corporation, word, record, competence, dont, detail, candidate, ex-executives, data, network, membership, graduate, executive, head, land, manager, experiment, networking, movement, imagination, division, envision, play, edge, characteristic, men, consultant, tenure, cut, contact, limitation, quantity, friend, style, month, member, game, affiliation, validity, bias, belonging, competitor, coach, circle, paper, acquaintance, proceeding, sample, isolation, basketball, tie, stock, shot, retailer, collegiate, firing, connectivity, resilience, stigma, applicability,  
- 
-0: 
-co, dish, depot, investigates, alumnus, inc, chrysler, ge, lowes, insularity, halgin, bainies, caliparis, halgins, welch, pitino, calipari,  
- 
--1: 
- 

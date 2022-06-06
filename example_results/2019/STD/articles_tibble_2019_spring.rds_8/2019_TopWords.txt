@@ -1,8 +1,0 @@
-1: 
-way, reason, concern, example, idea, policy, attention, work, opportunity, nothing, business, thing, time, individual, impact, others, government, people, get, market, information, company, state, necessity, choice, issue, key, account, security, technology, system, question, requirement, society, insight, service, number, report, credit, history, study, practice, effect, gain, data, marketplace, safety, offer, computer, expert, product, best-seller, exception, trade, commission, legislation, note, field, power, protection, firm, methodology, complexity, audit, list, rate, regulation, recovery, target, year, pressure, transaction, broker, platform, location, tech, lesson, executive, convenience, highlight, technique, mobility, recession, poverty, speed, buy, incident, woman, card, breach, regulate, researcher, medium, host, geography, dozen, radio, veteran, prize, europe, facebook, station, designer, hacking, sale, reporter, scholar, editor, twitter, bump, login, youtube, critic, regulator,  
- 
-0: 
-economist, friction, cybersecurity, nobel, marriott, cybercriminals, cobb, gdpr, mit, freakonomics, roose,  
- 
--1: 
- 

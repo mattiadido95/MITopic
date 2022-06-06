@@ -1,8 +1,0 @@
-1: 
-way, fact, one, reason, idea, example, opportunity, work, focus, point, anyone, approach, people, experience, happens, process, result, use, business, research, company, industry, look, information, organization, term, argue, number, management, promising, product, word, structure, show, offering, innovation, youd, combination, employee, competition, option, quality, site, call, source, observation, school, university, tool, selection, book, imagination, software, topic, inspiration, operation, manager, guide, press, author, variation, executive, television, consistency, hype, avoids, thousand, professor, beverage, performer, tournament, aircraft, inventor, innovator,  
- 
-0: 
-variability, mythology, idol, contestant, pennsylvania, terwiesch, darwinator,  
- 
--1: 
- 

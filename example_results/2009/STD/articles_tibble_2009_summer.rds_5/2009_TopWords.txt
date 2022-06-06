@@ -1,8 +1,0 @@
-1: 
-responsibility, fact, matter, interest, public, change, decision, way, management, organization, attention, example, education, time, state, work, requirement, majority, research, increase, committee, agency, evaluation, part, company, term, influence, context, guidance, information, force, commission, act, audit, evidence, relationship, compliance, person, order, compensation, approval, mandate, accounting, issue, role, governance, statement, study, legislation, willingness, desire, staff, reform, behalf, communication, analysis, liability, rule, security, activity, credit, advice, lead, number, assurance, use, exchange, service, value, get, crisis, meeting, survey, growth, enterprise, data, bank, building, counsel, firm, executive, group, advocate, regulation, everything, methodology, poor, investor, partner, membership, definition, set, board, interaction, spend, consultant, presentation, shift, criticism, year, coordination, loan, period, percentage, bankruptcy, conference, official, trend, filing, area, web, retention, source, shareholder, performance, duty, month, leader, auditor, member, body, search, director, view, shape, merger, workload, assistant, section, passage, multitude, chairman, insider, constituent, baseline, frequency, cross, stock, hour, comment, medium, landmark, translates, watchdog, liquidation, prevalence, category, corp, distrust, series,  
- 
-0: 
-debacle, ceo, p, korn/ferry, cfo, sarbanes-oxley, sec, riskmetrics, worldcom,  
- 
--1: 
- 

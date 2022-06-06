@@ -1,8 +1,0 @@
-1: 
-focus, knowledge, extent, research, approach, development, success, idea, presence, relationship, organization, others, study, industry, help, innovation, problem, people, level, activity, likelihood, analysis, amount, resource, company, thought, factor, proportion, culture, us, form, capability, data, encourages, question, creativity, issue, collaboration, solution, capital, staff, portfolio, promotes, percentage, yield, researcher, period, alliance, description, scientist, biotech, patent,  
- 
-0: 
-inhibits, star, interdependency, coauthor,  
- 
--1: 
- 

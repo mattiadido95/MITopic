@@ -1,8 +1,0 @@
-1: 
-way, thing, attention, time, point, something, idea, work, example, right, people, place, individual, end, effort, become, job, task, company, decision, just-in-time, country, information, today, computer, organization, research, security, aspect, service, consumer, act, technology, question, internet, communication, department, employee, doesnt, access, report, agency, reach, number, level, conversation, customer, web, intelligence, network, data, face, area, space, note, academic, option, value, story, source, speech, pull, news, economy, request, innovation, product, eye, worker, house, detail, income, protection, court, year, article, device, voice, platform, fulfill, favor, damage, battle, google, server, highlight, appointment, assistant, developer, wage, theft, homeland, speaker, dozen, director, wave, finger, mouth, century, medium, giant, reporter, appliance, ear, maker, jurisdiction, operative, writes, hack, california, analyst, editor, apple, chip, meal, valley, attacker,  
- 
-0: 
-activation, tribunal, spider, economist, gig, amazon, r, sofa, retraction, pentagon, microchip, cia, bloomberg, motherboards, botch, shulevitz, wemple, businessweek, supermicro,  
- 
--1: 
- 

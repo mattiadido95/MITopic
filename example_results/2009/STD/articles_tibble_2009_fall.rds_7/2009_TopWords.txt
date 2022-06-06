@@ -1,8 +1,0 @@
-1: 
-thing, example, something, others, business, good, problem, company, focus, specific, youre, course, research, technology, remember, product, growth, waste, decade, writing, material, year, didnt, eliminate, associate, earth, engineer, sustainability, legacy, sign, consumption, model, supplier, factory, barrier, petroleum, street, rank, degradation, page, interface, landfill, collision, analyst, carpet, founder,  
- 
-0: 
-ceo, inc, naysayer,  
- 
--1: 
- 

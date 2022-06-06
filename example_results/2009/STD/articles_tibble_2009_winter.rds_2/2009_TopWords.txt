@@ -1,8 +1,0 @@
-1: 
-need, situation, responsibility, point, consideration, thing, theyre, result, decision, get, trust, experience, problem, otherwise, opinion, mistake, risk, leadership, course, management, relationship, company, organization, cost, gain, advice, confidence, use, term, issue, support, value, number, motivation, day, account, call, career, figure, feeling, goal, year, budget, favor, quality, energy, group, data, capability, recommendation, consult, manager, source, competition, leader, lie, war, consultant, promotion, diverse, standard, quantity, lesson, joke, weight, range, input, bias, veteran, voice, insider, laboratory, telecom, array, maker, outsider,  
- 
-0: 
-shortcoming, bell, inc, amacom, worldcom,  
- 
--1: 
- 

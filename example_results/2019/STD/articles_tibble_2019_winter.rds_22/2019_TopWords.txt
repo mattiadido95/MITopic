@@ -1,8 +1,0 @@
-1: 
-sense, fact, matter, kind, change, focus, individual, nothing, something, example, whats, approach, time, perspective, result, people, making, responsibility, aspect, context, benefit, experience, use, part, intention, relationship, majority, perception, success, business, help, policy, increase, outcome, care, effect, argue, communication, conversation, information, world, response, research, customer, consumer, setting, organization, enhance, company, convey, fail, interaction, issue, hand, case, recognition, word, practice, engage, speaking, study, feeling, service, factor, variety, action, product, satisfaction, shift, employee, data, language, analysis, ownership, implement, show, half, speech, dialogue, profit, blame, report, touch, phrase, agency, message, discourse, expression, experiment, reference, orientation, participant, survey, behalf, wisdom, two-thirds, rate, norm, base, website, range, voice, year, convenience, heart, engagement, purchase, sentence, foster, bottom, volume, feature, digital, speed, signal, medium, leader, entertainment, phone, utter, agent, manager, sorry, recipient, email, conveys, size, earnings, prescription, channel, script, lift, randomly, retailer, shoe,  
- 
-0: 
-apple, psychologist, diffusion, sale, pronoun, linguist, research5,  
- 
--1: 
- 

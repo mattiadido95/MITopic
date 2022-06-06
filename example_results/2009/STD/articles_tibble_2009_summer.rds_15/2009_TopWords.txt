@@ -1,8 +1,0 @@
-1: 
-way, need, example, idea, work, importance, process, situation, opportunity, others, individual, result, thinking, problem, identify, mind-set, development, manner, instance, success, people, get, problem-solving, context, order, plan, interest, learn, attempt, decision, business, management, learning, seek, who, improvement, mistake, system, organization, role, state, represent, root-cause, solve, company, level, building, hand, project, issue, method, solution, action, authority, figure, analysis, team, enterprise, goal, skill, tool, document, call, department, report, illustrate, core, mechanism, strength, condition, lie, dialogue, production, drawn, manufacturing, attack, manager, play, article, fit, cycle, habit, institute, heart, error, paper, sequence, translation, template, plant, trial, mentor, generates, manufacture, box, page, author, size, motor, transparent, version, editor, iteration,  
- 
-0: 
-causality, corp, shook, toyota, tutelage, porter, countermeasure, a3s, sandersons, protg, a3, sanderson,  
- 
--1: 
- 

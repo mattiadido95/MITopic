@@ -1,8 +1,0 @@
-1: 
-business, investment, research, development, company, management, innovation, finance, whats, make, risk, organization, venture, invest, people, portfolio, university, investor, information, finding, early-stage, failure, offering, culture, year, school, literature, number, conclude, effect, doesnt, stage, startup, motivate, cycle, news, paper, professor, capitalist, author, patent, assistant, tolerance,  
- 
-0: 
-innovativeness, ipo, tian, wangs,  
- 
--1: 
- 

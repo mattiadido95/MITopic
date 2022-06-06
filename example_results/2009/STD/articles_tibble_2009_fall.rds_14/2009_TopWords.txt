@@ -1,8 +1,0 @@
-1: 
-importance, focus, opportunity, knowledge, development, knowledge-sharing, benefit, fact, business, process, success, research, effort, example, result, environment, industry, idea, examine, commitment, evaluate, information, organization, finding, company, resource, self-assessments, relationship, innovation, study, communication, creation, manage, level, state, product, diverse, service, interaction, explore, data, capability, access, solution, money, today, effect, introduction, exchange, number, combination, issue, partner, profitability, profit, collaboration, generation, performance, uncertainty, university, set, advocate, coordination, location, range, examination, story, contrast, manager, portion, diversification, age, light, road, sample, commercialization, diversify, downturn, journal, bias, interviewing, commit, interview, size, salvation, driver, kingdom, headquarters, california, coast, counterpart,  
- 
-0: 
-michigan, apple, inc, silo, rubera,  
- 
--1: 
- 

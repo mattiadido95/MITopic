@@ -1,8 +1,0 @@
-1: 
-importance, fact, focus, attention, future, kind, research, development, point, business, people, organization, human, perception, question, diversity, technology, addition, issue, create, promote, conversation, discussion, intelligence, outcome, company, institution, job, creativity, accountability, burden, advance, case, number, system, employee, skill, collaboration, detail, article, solution, transformation, space, platform, transparency, competency, author, age, cite, print, stem, category, editor, headline,  
- 
-0: 
-version, edition, apprenticeship, takeaway, coauthor, michelman, bianzinos, mit, daugherty, smr, morini,  
- 
--1: 
- 

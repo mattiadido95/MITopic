@@ -1,8 +1,0 @@
-1: 
-importance, approach, work, change, effort, individual, time, success, development, organization, influence, research, life, help, people, strategy, result, management, business, practice, force, manner, environment, study, problem, use, support, structure, form, behavior, activity, transition, school, effect, field, action, committee, advocate, mission, culture, faculty, accountability, value, leader, skill, year, executive, solution, retirement, legacy, pressure, source, identification, reward, book, agent, article, member, model, habit, professor, author, range, fix, retreat, interview, architect, review, chair, panel, lecturer, reorganization, prize, founder, category,  
- 
-0: 
-prof, discus, beckhards, beckhard, schussel, brynjolfsson, maanen, mit, schell,  
- 
--1: 
- 
